@@ -89,3 +89,5 @@ results/plots/
 # OS
 *.orig
 *.bak
+=======
+__pycache__/ 
